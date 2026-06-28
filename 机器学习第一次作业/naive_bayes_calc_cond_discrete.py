@@ -1,7 +1,7 @@
 import csv
 from collections import defaultdict, Counter
 
-A_COL = "annual_income"     # 被条件化的列
+A_COL = "employment_status"     # 被条件化的列
 B_COL = "loan_paid_back"     # 条件列
 MAX_ROWS = 19_000
 
